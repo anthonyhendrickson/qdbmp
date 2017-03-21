@@ -130,6 +130,4 @@ const char*		BMP_GetErrorDescription		();
 		return( return_value );	\
 	}
 
-
-#include"qdbmp.c"
 #endif
